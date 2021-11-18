@@ -6,7 +6,7 @@ In this homework assignment, we combined our new Amazon Web Services skills with
 
 ![tpNBC0gklr](https://user-images.githubusercontent.com/87621135/142341883-535fcac8-a675-403b-ac7b-e3a42b0efb95.gif)
 
-Please review the attached files for further details on the assignment.
+Please review the attached files to see individual elements of the assignment.
 
 Thanks
 
